@@ -12,6 +12,3 @@ directly merged into the master for immediate testing and roll out to production
    merged and tested. 
 3. The feature branches are the ones where we have the actual features developed and then merged
    into development for integration testing. 
-
-
-
